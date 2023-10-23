@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: hodongho's blog # the main title
+title: hodongho # the main title
 
 tagline: 안녕하세요!<br> hodongho의 개발 블로그입니다! # it will display as the sub-title
 
